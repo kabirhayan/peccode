@@ -1,0 +1,9 @@
+<svg  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <circle cx="50" cy="50" r="48" fill="#0284c7" stroke="#0369a1" stroke-width="2"/>
+  <path d="M25 35h50v30H25z" fill="#fff"/>
+  <path d="M30 42h40v2H30zm0 6h40v2H30zm0 6h40v2H30z" fill="#0284c7"/>
+  <path d="M50 22L70 32v4H30v-4L50 22z" fill="#fff" stroke="#0369a1" stroke-width="2"/>
+  <path d="M45 70h10v8H45z" fill="#fff" stroke="#0369a1" stroke-width="2"/>
+  <text x="50" y="80" font-family="Arial" font-size="9" fill="#0284c7" text-anchor="middle">PEC</text>
+</svg>
+ 
